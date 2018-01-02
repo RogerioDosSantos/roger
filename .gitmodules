@@ -1,3 +1,6 @@
 [submodule "productivity/scripts"]
 	path = productivity/scripts
 	url = https://github.com/RogerioDosSantos/productivity_scripts.git
+[submodule "linux_environment"]
+	path = linux_environment
+	url = https://github.com/RogerioDosSantos/linux_environment.git
