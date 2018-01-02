@@ -1,0 +1,3 @@
+[submodule "productivity/scripts"]
+	path = productivity/scripts
+	url = https://github.com/RogerioDosSantos/productivity_scripts.git
