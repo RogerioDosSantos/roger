@@ -4,3 +4,6 @@
 [submodule "linux_environment"]
 	path = linux_environment
 	url = https://github.com/RogerioDosSantos/linux_environment.git
+[submodule "devops/docker"]
+	path = devops/docker
+	url = https://github.com/RogerioDosSantos/docker.git
