@@ -7,3 +7,6 @@
 [submodule "devops/docker"]
 	path = devops/docker
 	url = https://github.com/RogerioDosSantos/docker.git
+[submodule "examples/dotNet/receive_windows_message"]
+	path = examples/dotNet/receive_windows_message
+	url = https://github.com/RogerioDosSantos/example_dotNet_receive_windows_message.git
