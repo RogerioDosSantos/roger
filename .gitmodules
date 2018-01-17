@@ -10,3 +10,6 @@
 [submodule "examples/dotNet/receive_windows_message"]
 	path = examples/dotNet/receive_windows_message
 	url = https://github.com/RogerioDosSantos/example_dotNet_receive_windows_message.git
+[submodule "examples/cpp/serial_communication"]
+	path = examples/cpp/serial_communication
+	url = https://github.com/RogerioDosSantos/example_cpp_serial_communication.git
