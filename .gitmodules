@@ -13,3 +13,6 @@
 [submodule "examples/cpp/serial_communication"]
 	path = examples/cpp/serial_communication
 	url = https://github.com/RogerioDosSantos/example_cpp_serial_communication.git
+[submodule "productivity/templates/cpp/project"]
+	path = productivity/templates/cpp/project
+	url = https://github.com/RogerioDosSantos/template_cpp_project.git
