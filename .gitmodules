@@ -16,3 +16,6 @@
 [submodule "productivity/templates/cpp/project"]
 	path = productivity/templates/cpp/project
 	url = https://github.com/RogerioDosSantos/template_cpp_project.git
+[submodule "third-party/bash-git-prompt"]
+	path = third-party/bash-git-prompt
+	url = https://github.com/RogerioDosSantos/bash-git-prompt.git
