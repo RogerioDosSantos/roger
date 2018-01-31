@@ -19,3 +19,6 @@
 [submodule "third-party/bash-git-prompt"]
 	path = third-party/bash-git-prompt
 	url = https://github.com/RogerioDosSantos/bash-git-prompt.git
+[submodule "productivity/templates/indusoft/example"]
+	path = productivity/templates/indusoft/example
+	url = https://github.com/RogerioDosSantos/template_indusoft_example.git
