@@ -22,3 +22,6 @@
 [submodule "productivity/templates/indusoft/example"]
 	path = productivity/templates/indusoft/example
 	url = https://github.com/RogerioDosSantos/template_indusoft_example.git
+[submodule "third-party/cppzmq"]
+	path = third-party/cppzmq
+	url = https://github.com/RogerioDosSantos/cppzmq.git
