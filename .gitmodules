@@ -25,3 +25,6 @@
 [submodule "third-party/cppzmq"]
 	path = third-party/cppzmq
 	url = https://github.com/RogerioDosSantos/cppzmq.git
+[submodule "examples/cpp/zeromq"]
+	path = examples/cpp/zeromq
+	url = https://github.com/RogerioDosSantos/example_zeromq.git
