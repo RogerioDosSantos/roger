@@ -28,3 +28,6 @@
 [submodule "examples/cpp/zeromq"]
 	path = examples/cpp/zeromq
 	url = https://github.com/RogerioDosSantos/example_zeromq.git
+[submodule "examples/cpp/flatbuffers"]
+	path = examples/cpp/flatbuffers
+	url = https://github.com/RogerioDosSantos/example_flatbuffers.git
