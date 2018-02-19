@@ -1,0 +1,5 @@
+# Ignore all folders but the documentation folder
+*
+!.gitignore
+!README.md
+!doc/src*
