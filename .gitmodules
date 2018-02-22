@@ -34,3 +34,6 @@
 [submodule "third-party/flatbuffers"]
 	path = third-party/flatbuffers
 	url = https://github.com/RogerioDosSantos/flatbuffers.git
+[submodule "devops/machines"]
+	path = devops/machines
+	url = https://github.com/RogerioDosSantos/devops_machines.git
