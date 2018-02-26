@@ -37,3 +37,6 @@
 [submodule "devops/machines"]
 	path = devops/machines
 	url = https://github.com/RogerioDosSantos/devops_machines.git
+[submodule "examples/iot_edge"]
+	path = examples/iot_edge
+	url = https://github.com/RogerioDosSantos/example_iot_edge.git
