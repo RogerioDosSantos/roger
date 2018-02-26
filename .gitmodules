@@ -40,3 +40,6 @@
 [submodule "examples/iot_edge"]
 	path = examples/iot_edge
 	url = https://github.com/RogerioDosSantos/example_iot_edge.git
+[submodule "third-party/iot_edge/azure-iot-sdk-c"]
+	path = third-party/iot_edge/azure-iot-sdk-c
+	url = https://github.com/RogerioDosSantos/azure-iot-sdk-c.git
