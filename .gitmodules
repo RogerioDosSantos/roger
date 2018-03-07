@@ -43,3 +43,6 @@
 [submodule "third-party/iot_edge/azure-iot-sdk-c"]
 	path = third-party/iot_edge/azure-iot-sdk-c
 	url = https://github.com/RogerioDosSantos/azure-iot-sdk-c.git
+[submodule "examples/dotNet/zip"]
+	path = examples/dotNet/zip
+	url = https://github.com/RogerioDosSantos/example_dotnet_zip.git
