@@ -46,3 +46,6 @@
 [submodule "examples/dotNet/zip"]
 	path = examples/dotNet/zip
 	url = https://github.com/RogerioDosSantos/example_dotnet_zip.git
+[submodule "examples/dotNet/azure"]
+	path = examples/dotNet/azure
+	url = https://github.com/RogerioDosSantos/example_dotnet_azure.git
