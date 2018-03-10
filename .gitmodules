@@ -49,3 +49,6 @@
 [submodule "examples/dotNet/azure"]
 	path = examples/dotNet/azure
 	url = https://github.com/RogerioDosSantos/example_dotnet_azure.git
+[submodule "third-party/dockcross"]
+	path = third-party/dockcross
+	url = https://github.com/RogerioDosSantos/dockcross.git
