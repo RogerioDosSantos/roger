@@ -46,3 +46,6 @@
 [submodule "examples/dotNet/zip"]
 	path = examples/dotNet/zip
 	url = https://github.com/RogerioDosSantos/example_dotnet_zip.git
+[submodule "third-party/dockcross"]
+	path = third-party/dockcross
+	url = https://github.com/RogerioDosSantos/dockcross.git
