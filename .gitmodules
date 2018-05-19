@@ -52,3 +52,6 @@
 [submodule "third-party/dockcross"]
 	path = third-party/dockcross
 	url = https://github.com/RogerioDosSantos/dockcross.git
+[submodule "projects/wiki"]
+	path = projects/wiki
+	url = https://github.com/RogerioDosSantos/Wiki.git
