@@ -55,3 +55,6 @@
 [submodule "projects/wiki"]
 	path = projects/wiki
 	url = https://github.com/RogerioDosSantos/Wiki.git
+[submodule "devops/publisher"]
+	path = devops/publisher
+	url = https://github.com/RogerioDosSantos/devops_publisher.git
