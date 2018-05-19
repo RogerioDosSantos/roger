@@ -2,7 +2,7 @@
 	path = productivity/scripts
 	url = https://github.com/RogerioDosSantos/productivity_scripts.git
 [submodule "linux_environment"]
-	path = linux_environment
+	path = devops/linux_environment
 	url = https://github.com/RogerioDosSantos/linux_environment.git
 [submodule "devops/docker"]
 	path = devops/docker
