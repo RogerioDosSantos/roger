@@ -58,3 +58,6 @@
 [submodule "devops/publisher"]
 	path = devops/publisher
 	url = https://github.com/RogerioDosSantos/devops_publisher.git
+[submodule "projects/launcher"]
+	path = projects/launcher
+	url = https://github.com/RogerioDosSantos/launcher.git
