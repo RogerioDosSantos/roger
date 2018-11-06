@@ -61,3 +61,6 @@
 [submodule "projects/launcher"]
 	path = projects/launcher
 	url = https://github.com/RogerioDosSantos/launcher.git
+[submodule "examples/openfass"]
+	path = examples/openfass
+	url = https://github.com/RogerioDosSantos/example_openfass.git
