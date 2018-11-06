@@ -61,6 +61,3 @@
 [submodule "projects/launcher"]
 	path = projects/launcher
 	url = https://github.com/RogerioDosSantos/launcher.git
-[submodule "examples/openfaas"]
-	path = examples/openfaas
-	url = https://github.com/RogerioDosSantos/exmple_openfaas.git
