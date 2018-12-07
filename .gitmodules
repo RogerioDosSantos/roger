@@ -61,3 +61,6 @@
 [submodule "projects/launcher"]
 	path = projects/launcher
 	url = https://github.com/RogerioDosSantos/launcher.git
+[submodule "examples/cpp/nano_server"]
+	path = examples/cpp/nano_server
+	url = https://github.com/RogerioDosSantos/example_nano_server.git
