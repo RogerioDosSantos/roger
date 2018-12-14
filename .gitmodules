@@ -64,3 +64,9 @@
 [submodule "examples/cpp/nano_server"]
 	path = examples/cpp/nano_server
 	url = https://github.com/RogerioDosSantos/example_nano_server.git
+[submodule "examples/openfaas"]
+	path = examples/openfaas
+	url = https://github.com/RogerioDosSantos/example_openfaas.git
+[submodule "examples/jenkins"]
+	path = examples/jenkins
+	url = https://github.com/RogerioDosSantos/example_jenkins.git
