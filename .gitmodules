@@ -73,3 +73,6 @@
 [submodule "examples/serverless"]
 	path = examples/serverless
 	url = https://github.com/RogerioDosSantos/example_serverless.git
+[submodule "examples/node/restfull_api"]
+	path = examples/node/restfull_api
+	url = https://github.com/RogerioDosSantos/example_node_restfull_api.git
