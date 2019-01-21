@@ -76,3 +76,6 @@
 [submodule "examples/node/restfull_api"]
 	path = examples/node/restfull_api
 	url = https://github.com/RogerioDosSantos/example_node_restfull_api.git
+[submodule "private"]
+	path = private
+	url = https://github.com/RogerioDosSantos/private.git
