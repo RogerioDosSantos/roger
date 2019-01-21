@@ -79,3 +79,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/RogerioDosSantos/private.git
+[submodule "examples/python/package"]
+	path = examples/python/package
+	url = https://github.com/RogerioDosSantos/example_python_package.git
