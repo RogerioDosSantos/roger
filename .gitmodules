@@ -82,3 +82,6 @@
 [submodule "examples/python/package"]
 	path = examples/python/package
 	url = https://github.com/RogerioDosSantos/example_python_package.git
+[submodule "examples/cpp/codemeter"]
+	path = examples/cpp/codemeter
+	url = https://github.com/RogerioDosSantos/example_codemeter.git
