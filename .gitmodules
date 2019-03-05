@@ -85,3 +85,6 @@
 [submodule "examples/cpp/codemeter"]
 	path = examples/cpp/codemeter
 	url = https://github.com/RogerioDosSantos/example_codemeter.git
+[submodule "productivity/code_collection"]
+	path = productivity/code_collection
+	url = https://github.com/RogerioDosSantos/code_collection.git
