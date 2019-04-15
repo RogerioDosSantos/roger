@@ -88,3 +88,6 @@
 [submodule "productivity/code_collection"]
 	path = productivity/code_collection
 	url = https://github.com/RogerioDosSantos/code_collection.git
+[submodule "examples/dotNet/swashbuckle"]
+	path = examples/dotNet/swashbuckle
+	url = https://github.com/RogerioDosSantos/example_swashbuckle.git
