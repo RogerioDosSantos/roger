@@ -91,3 +91,6 @@
 [submodule "examples/dotNet/swashbuckle"]
 	path = examples/dotNet/swashbuckle
 	url = https://github.com/RogerioDosSantos/example_swashbuckle.git
+[submodule "examples/dotNet/identity_server_client"]
+	path = examples/dotNet/identity_server_client
+	url = https://github.com/RogerioDosSantos/example_dotnet_identity_server_client.git
