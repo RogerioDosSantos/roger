@@ -94,3 +94,6 @@
 [submodule "examples/dotNet/identity_server_client"]
 	path = examples/dotNet/identity_server_client
 	url = https://github.com/RogerioDosSantos/example_dotnet_identity_server_client.git
+[submodule "examples/dotNet/nuget"]
+	path = examples/dotNet/nuget
+	url = https://rogersantosmain@dev.azure.com/rogersantosmain/nuget_example/_git/nuget_example
