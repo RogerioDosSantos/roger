@@ -97,3 +97,6 @@
 [submodule "examples/dotNet/nuget"]
 	path = examples/dotNet/nuget
 	url = https://rogersantosmain@dev.azure.com/rogersantosmain/nuget_example/_git/nuget_example
+[submodule "examples/dotNet/jwt"]
+	path = examples/dotNet/jwt
+	url = https://github.com/RogerioDosSantos/example_dotnet_jwt.git
