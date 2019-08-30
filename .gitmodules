@@ -100,3 +100,6 @@
 [submodule "examples/dotNet/jwt"]
 	path = examples/dotNet/jwt
 	url = https://github.com/RogerioDosSantos/example_dotnet_jwt.git
+[submodule "examples/cpp/run_dotnet_core_v22"]
+	path = examples/cpp/run_dotnet_core_v22
+	url = https://github.com/RogerioDosSantos/example_cpp_run_dotnet_core_v22.git
