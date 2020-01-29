@@ -109,3 +109,6 @@
 [submodule "examples/angular/environment_variables"]
 	path = examples/angular/environment_variables
 	url = https://github.com/RogerioDosSantos/example_angular_environment_variables.git
+[submodule "examples/dotNet/dotnetcore_apis"]
+	path = examples/dotNet/dotnetcore_apis
+	url = https://github.com/RogerioDosSantos/example_dotnetcore_apis.git
