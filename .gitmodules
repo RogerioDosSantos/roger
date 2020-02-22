@@ -112,3 +112,6 @@
 [submodule "examples/dotNet/dotnetcore_apis"]
 	path = examples/dotNet/dotnetcore_apis
 	url = https://github.com/RogerioDosSantos/example_dotnetcore_apis.git
+[submodule "examples/cpp/is_running_in_container"]
+	path = examples/cpp/is_running_in_container
+	url = https://github.com/RogerioDosSantos/example_cpp_is_running_in_container.git
