@@ -4,3 +4,7 @@ temp/**
 tags
 tags.lock
 tags.temp
+
+# Projects to ignore
+
+projects/ad-FUN-idsr/
